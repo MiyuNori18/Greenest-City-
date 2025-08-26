@@ -1,5 +1,7 @@
 # Greenest City
 
+# Check out my full StoryMap here 👉 https://arcg.is/1za8r3
+
 ## Abstract
 Achieving environmental sustainability with rapid population increase is becoming more of an issue for urban areas. As a result, the City of Vancouver proposed the Greenest City Action Plan (GCAP), a comprehensive set of policies with the goal of making Vancouver the greenest city in the world. Clean air and green transportation are two of its 10 major actions, Clean Air and Green Transportation, areas that directly support environmental and public health. This study investigates the spatial distribution of projects falling under these action areas and how they relate to Vancouver’s population density as well as average income across Vancouver. This analysis blends statistical interpretation with spatial visualization using City of Vancouver shapefile with 2021 Canadian Census population and average income (after tax) data. Through a combination of various data visualization tools, the study revealed that green infrastructure projects are more prevalent near denser and high-income locations. The spatial and visual patterns offer valuable information on the distribution of green infrastructure in Vancouver and potential gaps in accessibility that may exist which could ultimately offer urban planning considerations for the City of Vancouver’s 2050 goals.
 
